@@ -234,6 +234,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Rohan Likhite http://rohanlikhite.com
 - Rohan Yelsangikar http://royels.me
 - Rõhith Varanasi http://rohithvaranasi.com
+- Ron Bhatta  http://aranibatta.me
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
