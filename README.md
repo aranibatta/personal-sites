@@ -35,6 +35,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Antonio Marino http://antoniomarino.me
 - Anuraag Yachamaneni http://anuraag.me
 - Anurag Banerjee http://anuragbanerjee.me
+- Arani Bhattacharyay http://arani.io
 - Ari VanIderstine http://ariari.io
 - Arjun Bhatnagar http://arjunb.com
 - Arjun Sarode http://asarode.github.io/
